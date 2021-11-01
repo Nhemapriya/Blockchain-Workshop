@@ -15,3 +15,9 @@
 2. Upon every citation of a paper, a reward/rating will be provided so as to curate the best suggestions for references
 
 3. Only authentic and domain-related papers can be accepted in the network
+
+### Command line input and json source data creation
+
+1. Run the JournalCMD.py and add the arguments (with reference to the sample dictionary)
+
+    python JournalCMD.py journalId=JO1 journalName=IEEE journalDomain=Nanotech .....
